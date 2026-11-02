@@ -1,0 +1,107 @@
+{
+  "bundle_title": "SBS Biz Aftermarket Codex Handoff",
+  "created_date": "2026-11-02",
+  "note": "Original uploaded documents/screenshots and current HTML preserved, with Codex brief and grounded analysis; recommendation defaults not final approvals",
+  "files": [
+    {
+      "path": "00_START_HERE.md",
+      "bytes": 4282,
+      "sha256": "77daae8aae6fdbeccec19201c7806e8195deeb27d4ae1f999d2698ed931e69a0"
+    },
+    {
+      "path": "01_originals/documents/TalkFile_2026-11-02_SBS_애프터마켓_고객확인사항.md",
+      "bytes": 7155,
+      "sha256": "60441dc2b066b75bd736230d55b3b770453877e152fad17b219c7c9fddaa9149"
+    },
+    {
+      "path": "01_originals/documents/첨부1. 애프터마켓_BGDS_기존씬 사용_261016.pptx",
+      "bytes": 1566292,
+      "sha256": "6e4ea794ffbaf5d03e5ad1de237ba286dd6fdb3a0c2ed547dfa24c6cda35c4df"
+    },
+    {
+      "path": "01_originals/screenshots/01_종목비교_정규장VS애프터.png",
+      "bytes": 600618,
+      "sha256": "3dfa50b91f1b6a4b505c20d06401ed3a8774e86f19ccbbe3217be50575ef2802"
+    },
+    {
+      "path": "01_originals/screenshots/02_신규5단_시가총액_상승.png",
+      "bytes": 831794,
+      "sha256": "ceb4a319bb01233a4211968354ab75a887e34baf21b0126ded37033ba0308105"
+    },
+    {
+      "path": "01_originals/screenshots/03_신규5단_하락.png",
+      "bytes": 440463,
+      "sha256": "a16962c5b2cd4c2ec300b587f57168f3764006ccc33c5f2f6a354631f0d247fc"
+    },
+    {
+      "path": "01_originals/screenshots/04_정규장_코스피코스닥통합차트.png",
+      "bytes": 512538,
+      "sha256": "b6276c57c44a8a0846d7b6ebc9ebb31289ce8ef6e275638fca0a2a00495f3b75"
+    },
+    {
+      "path": "02_current_html/aftermarket_decision_board.html",
+      "bytes": 464346,
+      "sha256": "995905a0585fc4f8278e15d722722d5b1438434086b13cad9f0bbd681170e2bd"
+    },
+    {
+      "path": "03_reference_previews/aftermarket_desktop.png",
+      "bytes": 309864,
+      "sha256": "e50e0335a27f35e10dff4eb3341cd1257d054f8acf0099ea819e81853c039a6c"
+    },
+    {
+      "path": "03_reference_previews/aftermarket_mobile.png",
+      "bytes": 250311,
+      "sha256": "213abfca0511402c5fc6115a2542f09106513980a59661fc33a3e92e7a73de2f"
+    },
+    {
+      "path": "03_reference_previews/aftermarket_report_desktop.png",
+      "bytes": 387578,
+      "sha256": "050eea6a426c5106d76759203c93a0e508602e791fbd1ccf8bab2600ccd5c1de"
+    },
+    {
+      "path": "03_reference_previews/aftermarket_scene_desktop.png",
+      "bytes": 362790,
+      "sha256": "4d3ab9bd4cbe511f26360eadc246aee1af9022f771be9b5dbe844fff5c4585b3"
+    },
+    {
+      "path": "04_codex_brief/CODEX_TASK.md",
+      "bytes": 8403,
+      "sha256": "e950e1f190d895272bea6adc5a6bdcc937688fe9e4c28747dd80bca5392009a3"
+    },
+    {
+      "path": "05_project_notes/01_사용자_개발요청_원문.md",
+      "bytes": 3103,
+      "sha256": "2787d74dc86b88cf36dc1de3a147689ff781d8f78eafd6d603e95e61ae755cfa"
+    },
+    {
+      "path": "05_project_notes/02_씬_구성_매핑.md",
+      "bytes": 5162,
+      "sha256": "03a6dec7e634fd3060d22fcee8ae6f88b29fb0a4a3b6114f3ec08ca804265cd3"
+    },
+    {
+      "path": "05_project_notes/03_개발사_확인항목_의사결정표.md",
+      "bytes": 6488,
+      "sha256": "73dcf865537b01618375ee4c22a31c81b21f590e062d6a6c86fe8bdced99e259"
+    },
+    {
+      "path": "05_project_notes/04_미확정_차이사항.md",
+      "bytes": 3607,
+      "sha256": "06037995bc545f1904f5a4365f03f1449d3bea937e6bd8bfdace56c3f170afe5"
+    },
+    {
+      "path": "05_project_notes/05_UI_검증_체크리스트.md",
+      "bytes": 3280,
+      "sha256": "69eafcacb41c5d3c4e10500c733487a8c423932811166864c427c3e0e2265927"
+    },
+    {
+      "path": "05_project_notes/06_PPTX_슬라이드_텍스트_색인.md",
+      "bytes": 3730,
+      "sha256": "3c8ffbaa76e3aadd1d7b0343f098353e891c6f9865e217dfe6488c2e43c9be90"
+    },
+    {
+      "path": "05_project_notes/07_원본_파일_대응표.md",
+      "bytes": 1103,
+      "sha256": "d62afbae6a9dd3aafbe29860d2af63e41389e3945144ada708423ee46bb111d1"
+    }
+  ]
+}
